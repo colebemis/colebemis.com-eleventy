@@ -23,6 +23,7 @@ collections:
         label: "Metadata"
         file: "_data/metadata.json"
         fields:
+          - { label: "Bio", name: "bio", widget: "text" }
           - name: "projects"
             label: "Projects"
             label_singular: "Project"
