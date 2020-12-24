@@ -5,7 +5,7 @@ backend:
 media_folder: "images/uploads"
 
 collections:
-  - name: "note" # Used in routes, e.g., /admin/collections/blog
+  - name: "notes" # Used in routes, e.g., /admin/collections/blog
     label: "Note" # Used in the UI
     folder: "notes" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
