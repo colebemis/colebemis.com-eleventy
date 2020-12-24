@@ -58,6 +58,3 @@ title: Tools I use
 - [Magnet](https://magnet.crowdcafe.com/)
 - [1.1.1.1](https://1.1.1.1/)
 - [DuckDuckGo](https://duckduckgo.com/)
-
-
-fooo
