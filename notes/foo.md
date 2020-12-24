@@ -1,4 +1,4 @@
 ---
 title: Foo
 ---
-blahhh
+bla
