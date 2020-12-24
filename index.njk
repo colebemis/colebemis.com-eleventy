@@ -5,10 +5,24 @@ title: Cole Bemis
 
 <h1>Cole Bemis</h1>
 
+<h2>Projects</h2>
+
+<ul>
+  {%- for project in projects -%}
+    <li>
+      <a href="{{ project.url }}">{{ project.title }}</a>
+      <span>{{ project.description }}</span>
+    </li>
+  {%- endfor -%}
+</ul>
+
 <h2>Notes</h2>
 
 <ul>
   {%- for note in collections.note | reverse -%}
-    <li><a href="{{note.url}}">{{ note.data.title }}</a> Updated on {{note.date.toDateString() }}</li>
+    <li>
+      <a href="{{note.url}}">{{ note.data.title }}</a>
+      <span>Updated on {{note.date.toDateString() }}</span>
+    </li>
   {%- endfor -%}
 </ul>

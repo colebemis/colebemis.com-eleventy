@@ -7,10 +7,22 @@ media_folder: "images/uploads"
 collections:
   - name: "notes"
     label: "Notes"
-    label_singular: "Notes"
+    label_singular: "Note"
     folder: "notes"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Updated", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Data"
+    label: "Data"
+    files:
+      - name: "Projects"
+        label: "Projects"
+        file: "_data/projects.json"
+        widget: list
+        create: true
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "URL", name: "url", widget: "string" }
