@@ -10,9 +10,7 @@ collections:
     label_singular: "Notes"
     folder: "notes"
     create: true
-    slug: "{{fields.slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Updated", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }

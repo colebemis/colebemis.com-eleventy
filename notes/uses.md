@@ -1,6 +1,5 @@
 ---
 title: Tools I use
-slug: foo
 date: 2020-12-24T22:08:25.491Z
 ---
 
