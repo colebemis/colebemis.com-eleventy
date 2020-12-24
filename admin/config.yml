@@ -23,6 +23,7 @@ collections:
         fields:
           - name: "projects"
             label: "Projects"
+            label_singular: "Project"
             widget: "list"
             fields:
               - { label: "Title", name: "title", widget: "string" }
