@@ -4,7 +4,7 @@ title: Configure GitHub CLI to clone with SSH
 
 By default, [`gh repo clone`](https://cli.github.com/manual/gh_repo_clone) uses HTTPS. To configure `gh` to clone with SSH, run the following command:
 
-```
+```shell
 gh config set git_protocol ssh
 ```
 
