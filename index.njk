@@ -1,0 +1,14 @@
+---
+layout: base
+title: Cole Bemis
+---
+
+<h1>Cole Bemis</h1>
+
+<h2>Notes</h2>
+
+<ul>
+{%- for note in collections.note | reverse -%}
+  <li><a href="{{note.url}}">{{ note.data.title }}</a> {{note.date.toDateString() }}</li>
+{%- endfor -%}
+</ul>
