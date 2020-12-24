@@ -16,6 +16,8 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "data"
     label: "Data"
+    editor:
+      preview: false
     files:
       - name: "metadata"
         label: "Metadata"
