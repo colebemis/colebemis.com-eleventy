@@ -8,7 +8,7 @@ title: Cole Bemis
 <h2>Projects</h2>
 
 <ul>
-  {%- for project in projects -%}
+  {%- for project in metadata.projects -%}
     <li>
       <a href="{{ project.url }}">{{ project.title }}</a>
       <span>{{ project.description }}</span>

@@ -14,15 +14,17 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Updated", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Data"
+  - name: "data"
     label: "Data"
     files:
-      - name: "Projects"
-        label: "Projects"
-        file: "_data/projects.json"
-        widget: list
-        create: true
+      - name: "metadata"
+        label: "Metadata"
+        file: "_data/metadata.json"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - { label: "URL", name: "url", widget: "string" }
+          - name: "projects"
+            label: "Projects"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "URL", name: "url", widget: "string" }
