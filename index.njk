@@ -8,7 +8,7 @@ title: Cole Bemis
 <h2>Notes</h2>
 
 <ul>
-{%- for note in collections.note | reverse -%}
-  <li><a href="{{note.url}}">{{ note.data.title }}</a> {{note.date.toString() }}</li>
-{%- endfor -%}
+  {%- for note in collections.note | reverse -%}
+    <li><a href="{{note.url}}">{{ note.data.title }}</a> Updated on {{note.date.toDateString() }}</li>
+  {%- endfor -%}
 </ul>

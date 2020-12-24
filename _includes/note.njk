@@ -1,11 +1,13 @@
 ---
 layout: base
-date: Last Modified
 tags: note
 permalink: "{{ page.fileSlug }}/index.html"
 ---
 
 <a href="/">..</a>
+
 <h1>{{ title }}</h1>
-{{ page.date.toString() }}
+
+<p>Updated on {{ page.date.toDateString() }}</p>
+
 {{ content | safe }}
