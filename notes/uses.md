@@ -1,5 +1,6 @@
 ---
 title: Tools I use
+date: 2020-12-15T22:02:23.370Z
 ---
 
 - Macbook Pro (16-inch, 2019)
