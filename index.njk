@@ -7,6 +7,14 @@ title: {{ metadata.name }}
 
 <p>{{ metadata.bio }}</p>
 
+<ul>
+  {%- for link in metadata.links -%}
+    <li>
+      <a href="{{ link.url }}">{{ link.title }}</a>
+    </li>
+  {%- endfor -%}
+</ul>
+
 <h2>Projects</h2>
 
 <ul>

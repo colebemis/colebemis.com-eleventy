@@ -25,6 +25,13 @@ collections:
         fields:
           - { label: "Name", name: "name", widget: "string" }
           - { label: "Bio", name: "bio", widget: "text" }
+          - name: "links"
+            label: "Links"
+            label_singular: "Link"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
           - name: "projects"
             label: "Projects"
             label_singular: "Project"
