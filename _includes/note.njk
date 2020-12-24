@@ -1,6 +1,5 @@
 ---
 layout: base
-title: My Rad Blog
 date: Last Modified
 tags: note
 permalink: "{{ page.fileSlug }}/index.html"
@@ -8,5 +7,5 @@ permalink: "{{ page.fileSlug }}/index.html"
 
 <a href="/">..</a>
 <h1>{{ title }}</h1>
-{{ page.date.toDateString() }}
+{{ page.date.toString() }}
 {{ content | safe }}
