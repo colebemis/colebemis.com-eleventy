@@ -1,7 +1,16 @@
 {
   "name": "Cole Bemis",
   "bio": "Building things for people who build things. Design Systems Engineer at GitHub.",
-  "links": [{ "title": "Twitter", "url": "https://twitter.com/colebemis" }],
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/colebemis"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/colebemis"
+    }
+  ],
   "projects": [
     {
       "title": "Feather",
@@ -17,6 +26,11 @@
       "title": "Hosted Export Figma plugin",
       "description": "Copy hosted image URLs for any frame inside Figma",
       "url": "https://www.figma.com/community/plugin/886688414738743606"
+    },
+    {
+      "title": "Analog",
+      "url": "https://github.com/colebemis/analog",
+      "description": "Replace your new tab page with a minimal analog clock"
     }
   ]
 }
