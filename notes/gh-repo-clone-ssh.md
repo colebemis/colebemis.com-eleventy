@@ -1,5 +1,5 @@
 ---
-title: Configure GitHub CLI to clone with SSH
+title: Configuring GitHub CLI to clone with SSH
 date: 2020-12-01T22:10:11.153Z
 ---
 
