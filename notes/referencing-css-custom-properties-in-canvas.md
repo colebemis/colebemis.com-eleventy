@@ -2,8 +2,6 @@
 title: Referencing CSS custom properties in canvas
 date: 2020-12-25T00:26:17.282Z
 ---
-
-
 ```html
 <style>
   :root {
@@ -20,3 +18,5 @@ date: 2020-12-25T00:26:17.282Z
   ctx.fillRect(10, 10, 150, 100)
 </script>
 ```
+
+Thanks for the tip, [@edokoa](https://twitter.com/edokoa)!
