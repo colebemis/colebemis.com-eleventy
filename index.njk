@@ -1,6 +1,7 @@
 ---
 layout: layouts/base
-title: {{ metadata.name }}
+eleventyComputed:
+  title: "{{ metadata.name }}"
 ---
 
 <h1>{{ metadata.name }}</h1>
