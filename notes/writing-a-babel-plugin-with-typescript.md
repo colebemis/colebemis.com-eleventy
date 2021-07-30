@@ -8,8 +8,7 @@ import * as babel from '@babel/core'
 
 export default function ({ types: t }: typeof babel): PluginObj {
   return {
-    visitor: {...},
-    },
+    visitor: {...}
   }
 }
 ```
