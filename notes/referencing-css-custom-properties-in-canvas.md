@@ -1,5 +1,5 @@
 ---
-title: Referencing CSS custom properties in canvas
+title: Referencing CSS custom properties in a <canvas>
 date: 2020-12-25T00:26:17.282Z
 ---
 ```html
