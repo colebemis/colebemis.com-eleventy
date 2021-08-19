@@ -1,5 +1,5 @@
 ---
-title: Inspiring digital gardens
+title: Personal websites
 date: 2021-08-19T22:05:05.229Z
 ---
 - [Andy Matuschak](https://notes.andymatuschak.org)
