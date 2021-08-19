@@ -1,5 +1,5 @@
 ---
-title: Digital garden inspiration
+title: Inspiring digital gardens
 date: 2021-08-19T22:05:05.229Z
 ---
 A living list of inspiring digital gardens.
