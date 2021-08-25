@@ -8,6 +8,10 @@ permalink: "{{ page.fileSlug }}/index.html"
 
 <h1>{{ title }}</h1>
 
+{% if subtitle %}
+  <p>{{ subtitle }}</p>
+{% endif %}
+
 <p>Updated on {{ page.date.toDateString() }}</p>
 
 {{ content | safe }}
