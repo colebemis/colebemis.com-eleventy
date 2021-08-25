@@ -1,0 +1,22 @@
+:root {
+  --foreground-default: #000;
+  --background-default: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-default: #fff;
+    --background-default: #000;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: var(--foreground-default);
+  background-color: var(--background-default);
+}
+
+a {
+  color: inherit;
+}
