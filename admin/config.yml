@@ -12,6 +12,7 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string" }
       - { label: "Updated", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "data"
