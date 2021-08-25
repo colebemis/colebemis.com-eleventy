@@ -1,9 +1,8 @@
 ---
 title: Personal websites
+subtitle: A living list of inspiring personal websites.
 date: 2021-08-25T02:28:49.002Z
 ---
-A living list of inspiring personal websites.
-
 - [Andy Matuschak](https://andymatuschak.org)
 - [Chase McCoy](https://chasem.co)
 - [Chris Biscardi](https://www.christopherbiscardi.com)
