@@ -1,9 +1,8 @@
 ---
 title: Tools I use
+subtitle: A living list of the tools I use.
 date: 2021-08-19T22:04:48.102Z
 ---
-A living list of the tools I use.
-
 ## Hardware
 
 * MacBook Pro (16-inch, 2019)
