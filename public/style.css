@@ -12,11 +12,22 @@
 
 body {
   margin: 0;
+  padding: 1rem;
   font-family: system-ui, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.5;
   color: var(--foreground-default);
   background-color: var(--background-default);
 }
 
 a {
   color: inherit;
+}
+
+pre {
+  padding: 1rem;
+}
+
+code {
+  font-size: 1rem;
 }
