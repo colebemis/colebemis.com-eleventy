@@ -1,6 +1,6 @@
 ---
 title: Personal websites
-date: 2021-08-19T22:05:05.229Z
+date: 2021-08-25T01:59:38.825Z
 ---
 A living list of inspiring personal websites.
 
