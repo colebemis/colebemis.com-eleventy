@@ -2,12 +2,16 @@
 title: Tools I use
 date: 2021-08-19T22:04:48.102Z
 ---
+A living list of the tools I use.
+
 ## Hardware
 
 * MacBook Pro (16-inch, 2019)
 * iPad Pro
 * iPhone 12 Mini
 * AirPods Pro
+* [reMarkable 2](https://remarkable.com/store/remarkable-2)
+* [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4)
 
 ## Software
 
