@@ -1,7 +1,7 @@
 ---
 title: Tools I use
 subtitle: A living list of the tools I use.
-date: 2021-08-19T22:04:48.102Z
+date: 2021-08-26T14:59:10.277Z
 ---
 ## Hardware
 
@@ -11,6 +11,7 @@ date: 2021-08-19T22:04:48.102Z
 * AirPods Pro
 * [reMarkable 2](https://remarkable.com/store/remarkable-2)
 * [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4)
+* [Jarvis Bamboo Standing Desk](https://www.fully.com/standing-desks/jarvis-adjustable-height-desk-bamboo.html)
 
 ## Software
 
