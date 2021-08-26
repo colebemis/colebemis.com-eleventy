@@ -1,9 +1,8 @@
 ---
 title: Tools I use
-date: 2021-08-19T22:04:48.102Z
+subtitle: A living list of the tools I use.
+date: 2021-08-26T14:59:10.277Z
 ---
-A living list of the tools I use.
-
 ## Hardware
 
 * MacBook Pro (16-inch, 2019)
@@ -12,6 +11,7 @@ A living list of the tools I use.
 * AirPods Pro
 * [reMarkable 2](https://remarkable.com/store/remarkable-2)
 * [Kindle Oasis](https://www.amazon.com/All-new-Kindle-Oasis-now-with-adjustable-warm-light/dp/B07F7TLZF4)
+* [Jarvis Bamboo Standing Desk](https://www.fully.com/standing-desks/jarvis-adjustable-height-desk-bamboo.html)
 
 ## Software
 
@@ -57,3 +57,4 @@ A living list of the tools I use.
 * [1.1.1.1](https://1.1.1.1/)
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Time Out](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
+  * Time Out reminds me to look away from my computer screen for 20 seconds every 20 minutes to avoid eye strain. Thanks for the recommendation, [Joel Hawksley](https://hawksley.org)!
