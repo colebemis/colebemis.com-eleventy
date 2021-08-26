@@ -56,4 +56,4 @@ date: 2021-08-19T22:04:48.102Z
 * [1.1.1.1](https://1.1.1.1/)
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Time Out](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
-  * Time Out reminds me to look away from my computer screen for 20 seconds every 20 minutes to avoid eye strain.
+  * Time Out reminds me to look away from my computer screen for 20 seconds every 20 minutes to avoid eye strain. Thanks for the recommendation, [Joel Hawksley](https://hawksley.org)!
