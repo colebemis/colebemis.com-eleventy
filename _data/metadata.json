@@ -13,6 +13,16 @@
   ],
   "projects": [
     {
+      "title": "Octicons",
+      "url": "https://primer.style/octicons",
+      "description": "GitHub's icon set"
+    },
+    {
+      "title": "Doctocat",
+      "description": "A Gatsby theme for building Primer documentation sites\n\n",
+      "url": "https://primer.style/doctocat"
+    },
+    {
       "title": "Feather",
       "description": "Simply beautiful open source icons",
       "url": "https://feathericons.com"
