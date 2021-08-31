@@ -33,7 +33,6 @@ eleventyComputed:
   {%- for note in collections.note | reverse -%}
     <li>
       <a href="{{note.url}}">{{ note.data.title }}</a>
-      <span>Updated on {{note.date.toDateString() }}</span>
     </li>
   {%- endfor -%}
 </ul>
