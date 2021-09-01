@@ -21,3 +21,7 @@ TODO: Reword principles into actionable statements
 
 ## [Consistency/compound effects]
 
+Get a little better every day
+
+## [Progress over correctness]
+
