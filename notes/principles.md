@@ -17,8 +17,6 @@ Systems > goals
 
 ## Do less, but better
 
-Quality > quantity
-
 > Less, but better.
 >
 > – Dieter Rams
