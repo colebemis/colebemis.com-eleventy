@@ -1,6 +1,6 @@
 ---
 title: Principles
-subtitle: My guiding principles
+subtitle: The principles that guide my decisions
 date: 2021-09-01T16:16:23.566Z
 ---
 TODO: Define what a principle is
