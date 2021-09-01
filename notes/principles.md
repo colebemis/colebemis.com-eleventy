@@ -7,7 +7,7 @@ TODO: Define what a principle is
 
 TODO: Reword principles into actionable statements
 
-## [Systems]
+## Focus on systems instead of goals
 
 Systems > goals
 
@@ -15,7 +15,7 @@ Systems > goals
 >
 > – James Clear, [Atomic Habits](https://jamesclear.com/atomic-habits)
 
-## [Focus]
+## Do less, but better
 
 Quality > quantity
 
