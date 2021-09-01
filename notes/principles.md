@@ -9,11 +9,15 @@ TODO: Reword principles into actionable statements
 
 ## [Systems]
 
+Systems > goals
+
 > You do not rise to the level of your goals. You fall to the level of your systems.
 >
 > – James Clear, [Atomic Habits](https://jamesclear.com/atomic-habits)
 
 ## [Focus]
+
+Quality > quantity
 
 > Less, but better.
 >
@@ -24,4 +28,6 @@ TODO: Reword principles into actionable statements
 Get a little better every day
 
 ## [Progress over correctness]
+
+Progress > correctness
 
