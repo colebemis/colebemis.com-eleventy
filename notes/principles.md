@@ -7,13 +7,16 @@ date: 2021-09-01T16:16:23.566Z
 
 TODO: Define what a value is
 
-### Focus
+(max 5)
 
-### Authenticity
+### Focus
 
 ### Consistency
 
-### Simplicity
+### Authenticity
+
+### Humility
+
 
 ## Principles
 
@@ -29,17 +32,15 @@ Systems > goals
 >
 > – James Clear, [Atomic Habits](https://jamesclear.com/atomic-habits)
 
-### Do less, but better
+### Do one thing at a time
 
 > Less, but better.
 >
 > – Dieter Rams
 
-### [Consistency/compound effects]
+### Get a little better every day
 
-Get a little better every day
-
-### [Progress over correctness]
+Consistency/compound effects
 
 Progress > correctness
 
