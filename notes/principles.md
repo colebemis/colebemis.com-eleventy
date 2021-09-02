@@ -9,7 +9,9 @@ TODO: Define what a value is
 
 (max 5)
 
-### Focus/simplicity
+### Focus
+
+### Simplicity
 
 ### Consistency
 
