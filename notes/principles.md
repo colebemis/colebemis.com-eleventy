@@ -20,6 +20,8 @@ TODO: Define what a value is
 
 ## Principles
 
+(max 5)
+
 TODO: Define what a principle is
 
 TODO: Reword principles into actionable statements
