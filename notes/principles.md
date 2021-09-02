@@ -19,6 +19,9 @@ TODO: Define what a value is
 
 ### Humility
 
+### Relationships
+
+### Health
 
 ## Principles
 
@@ -47,4 +50,3 @@ Systems > goals
 Consistency/compound effects
 
 Progress > correctness
-
