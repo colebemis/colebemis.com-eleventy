@@ -7,7 +7,7 @@ date: 2021-09-01T16:16:23.566Z
 
 TODO: Define what a value is
 
-(max 5)
+(max 3)
 
 ### Focus/simplicity
 
