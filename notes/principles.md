@@ -9,13 +9,9 @@ TODO: Define what a value is
 
 (max 5)
 
-### Focus
-
 ### Simplicity
 
 ### Consistency
-
-### Authenticity
 
 ### Humility
 
@@ -28,8 +24,6 @@ TODO: Define what a value is
 (max 5)
 
 TODO: Define what a principle is
-
-TODO: Reword principles into actionable statements
 
 ### Focus on systems instead of goals
 
@@ -50,3 +44,5 @@ Systems > goals
 Consistency/compound effects
 
 Progress > correctness
+
+### Write it down
