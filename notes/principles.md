@@ -1,6 +1,6 @@
 ---
-title: My values and principles
-subtitle: The values and principles that guide my decisions
+title: My values, principles, and priorities
+subtitle: The values, principles, and priorities that guide my decisions
 date: 2021-09-01T16:16:23.566Z
 ---
 ## Values (max 5)
