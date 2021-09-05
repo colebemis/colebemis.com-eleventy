@@ -42,3 +42,9 @@ Consistency/compound effects
 Progress > correctness
 
 ### Write it down
+
+## Priorities
+
+1. My health
+1. My relationships
+1. My work
