@@ -3,25 +3,21 @@ title: My values and principles
 subtitle: The values and principles that guide my decisions
 date: 2021-09-01T16:16:23.566Z
 ---
-## Values
+## Values (max 5)
 
 TODO: Define what a value is
 
-(max 5)
+### Focus
 
-### Simplicity
+### Growth
 
 ### Consistency
 
-### Humility
+### Resilience
 
-### Relationships
+### Contribution
 
-### Health
-
-## Principles
-
-(max 5)
+## Principles (max 5)
 
 TODO: Define what a principle is
 
