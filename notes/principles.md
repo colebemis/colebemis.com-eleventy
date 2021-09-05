@@ -7,13 +7,13 @@ date: 2021-09-01T16:16:23.566Z
 
 TODO: Define what a value is
 
-### Focus
-
 ### Growth
 
-### Consistency
-
 ### Resilience
+
+### Focus
+
+### Consistency
 
 ### Contribution
 
@@ -23,6 +23,8 @@ TODO: Define what a principle is
 
 ### Focus on systems instead of goals
 
+growth, consistency, focus, resilience
+
 Systems > goals
 
 > You do not rise to the level of your goals. You fall to the level of your systems.
@@ -31,17 +33,23 @@ Systems > goals
 
 ### Do one thing at a time
 
+focus
+
 > Less, but better.
 >
 > – Dieter Rams
 
 ### Get a little better every day
 
+consistency, growth
+
 Consistency/compound effects
 
 Progress > correctness
 
 ### Write it down
+
+focus, contribution, growth
 
 ## Priorities
 
