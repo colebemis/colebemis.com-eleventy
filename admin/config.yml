@@ -12,9 +12,9 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Subtitle", name: "subtitle", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Updated", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "data"
     label: "Data"
     editor:
